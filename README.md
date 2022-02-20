@@ -4,9 +4,7 @@ This is a barebones implementation of Candy Machine V2 frontend, intended for us
 
 The app was built using Svelte + Vite and uses TailwindCSS for styles.
 
-This is code is open-sourced from SolaRare @ https://solarare.com, a Candy Machine Mint Page generator.
-
-![solarare](https://user-images.githubusercontent.com/44920747/152659230-2c97b634-d8c1-415e-b9a7-ad7057d2f5a3.png)
+https://wagmimark.io/, 
 
 ## Getting started
 
@@ -66,6 +64,6 @@ Mainnet-beta:
 - Google Analytics tracking
 
 ## Support
-SOL: AfJEqYhgfMipRkAej9dMbEoxdfbwcCVyTAU3mjS29VZ2
+SOL: 
 
 
